@@ -1,4 +1,4 @@
-#My RC4 Cipher
+# My RC4 Cipher
 
 My implementation of the (A)RC4 cipher for (my) educational purposes.
 
